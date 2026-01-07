@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Dan Sheppard, often going by either dansheps or just sheps.  I work as a Senior Network Analyst for a public university in Canada.  I volunteer as a NetBox maintainer in my spare time.
+I am Dan Sheppard, often going by either dansheps or just sheps.  I work as a Lead Network Specialist for a public university in Canada.  I volunteer as a NetBox maintainer in my spare time.
 
 ## NetBox
 
